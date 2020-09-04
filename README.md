@@ -2,7 +2,7 @@
 
 Deploy [🚀 Hugo Product Launch][github-url] to [netlify](https://www.netlify.com/) with one-click:
 
-[![Deploy to netlify](https://www.netlify.com/img/deploy/button.svg)]((https://app.netlify.com/start/deploy?repository=https://github.com/janraasch/hugo-product-launch-kickstart))
+[![Deploy to netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/janraasch/hugo-product-launch-kickstart)
 
 ## Usage
 
