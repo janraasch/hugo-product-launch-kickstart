@@ -6,7 +6,7 @@ Deploy [🚀 Hugo Product Launch][github-url] to [netlify](https://www.netlify.c
 
 ## Usage
 
-See [usage instructions](https://github.com/janraasch/hugo-product-launch#installation--usage) on the [theme's main repo](https://github.com/janraasch/hugo-product-launch).
+See [usage instructions](https://github.com/janraasch/hugo-product-launch#usage) on the [theme's main repo](https://github.com/janraasch/hugo-product-launch).
 
 ## Issues / Feedback / Contributing
 
