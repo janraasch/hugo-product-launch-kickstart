@@ -16,7 +16,9 @@ If you do not have a GitHub-account, feel free to hit me up via email (see [janr
 
 ## Sponsor [![Pay me][insert-coins-svg]][paypal-dot-me]
 
-Please consider supporting my work on this theme via [PayPal][paypal-dot-me]. Also, check out [MORE_PERMISSIONS.md][more-permissions-url].
+Support my work via [GitHub Sponsors][github-sponsors] or [PayPal][paypal-dot-me].
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=janraasch)][github-sponsors]
 
 ## License
 
@@ -48,3 +50,4 @@ If you would like to use this theme without attribution, permissions beyond this
 [pexels-url]: https://www.pexels.com
 [paypal-dot-me]: https://www.paypal.me/janraasch/29,00
 [insert-coins-svg]: https://img.shields.io/badge/insert-coins-11dde2.svg
+[github-sponsors]: https://github.com/sponsors/janraasch
