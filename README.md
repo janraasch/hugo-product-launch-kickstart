@@ -48,6 +48,6 @@ If you would like to use this theme without attribution, permissions beyond this
 [favicon-io-url]: https://favicon.io
 [favicon-io-example-site-url]: https://favicon.io/favicon-generator/?t=BF&ff=Catamaran&fs=110&fc=%23FFFFFF&b=rounded&bc=%2338b2ac
 [pexels-url]: https://www.pexels.com
-[paypal-dot-me]: https://www.paypal.me/janraasch/29,00
+[paypal-dot-me]: https://www.paypal.me/janraasch/49,00
 [insert-coins-svg]: https://img.shields.io/badge/insert-coins-11dde2.svg
 [github-sponsors]: https://github.com/sponsors/janraasch
