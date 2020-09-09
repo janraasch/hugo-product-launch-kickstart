@@ -1,4 +1,4 @@
-# hugo-product-launch-kickstart
+# hugo-product-launch-kickstart [![Pay me][paypal-svg]][paypal-dot-me] [![Sponsor me][github-sponsors-svg]][github-sponsors]
 
 Deploy [🚀 Hugo Product Launch][github-url] to [netlify](https://www.netlify.com/) with one-click:
 
@@ -14,9 +14,9 @@ Please use [GitHub issues][github-issues-url] on the [theme's main repo](https:/
 
 If you do not have a GitHub-account, feel free to hit me up via email (see [janraasch.com][author-url]).
 
-## Sponsor [![Pay me][insert-coins-svg]][paypal-dot-me]
+## Sponsor 💟
 
-Support my work via [GitHub Sponsors][github-sponsors] or [PayPal][paypal-dot-me].
+Support my work on this theme via [GitHub Sponsors][github-sponsors] (recurring) or [PayPal][paypal-dot-me] (one-time). Also, check out [MORE_PERMISSIONS.md][more-permissions-url].
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=janraasch)][github-sponsors]
 
@@ -49,5 +49,6 @@ If you would like to use this theme without attribution, permissions beyond this
 [favicon-io-example-site-url]: https://favicon.io/favicon-generator/?t=BF&ff=Catamaran&fs=110&fc=%23FFFFFF&b=rounded&bc=%2338b2ac
 [pexels-url]: https://www.pexels.com
 [paypal-dot-me]: https://www.paypal.me/janraasch/49,00
-[insert-coins-svg]: https://img.shields.io/badge/insert-coins-11dde2.svg
+[paypal-svg]: https://img.shields.io/badge/insert-coins-11dde2.svg?logo=paypal
+[github-sponsors-svg]: https://img.shields.io/badge/sponsor-me-ee4aaa.svg?logo=github
 [github-sponsors]: https://github.com/sponsors/janraasch
