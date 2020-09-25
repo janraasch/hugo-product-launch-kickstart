@@ -6,7 +6,9 @@ Deploy [🚀 Hugo Product Launch][github-url] to [netlify](https://www.netlify.c
 
 ## Usage
 
-See [usage instructions](https://github.com/janraasch/hugo-product-launch#usage) on the [theme's main repo](https://github.com/janraasch/hugo-product-launch).
+If you would like to have a nice & clean _no!-code_ User Interface 🧁 for Content Management, simply connect your repository with [Forestry](https://forestry.io). We included the necessary batteries 🔋 (i.e. settings) in the `.forestry`-folder so you are ready to go right out of the gate.
+
+For further details, check out the [usage instructions](https://github.com/janraasch/hugo-product-launch#usage) on the [theme's main repo](https://github.com/janraasch/hugo-product-launch).
 
 ## Issues / Feedback / Contributing
 
