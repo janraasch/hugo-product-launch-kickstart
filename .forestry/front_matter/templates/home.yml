@@ -1,0 +1,33 @@
+---
+label: Home
+hide_body: false
+fields:
+- type: text
+  name: header_brand
+  label: header_brand
+- type: textarea
+  name: header_tagline_paragraph
+  label: header_tagline_paragraph
+- type: field_group
+  name: header_button_cta
+  label: header_button_cta
+  fields:
+  - type: text
+    name: url
+    label: url
+  - type: text
+    name: title
+    label: title
+- type: field_group
+  name: header_button_more
+  label: header_button_more
+  fields:
+  - type: text
+    name: url
+    label: url
+  - type: text
+    name: title
+    label: title
+- type: file
+  name: teaser_image
+  label: teaser_image
