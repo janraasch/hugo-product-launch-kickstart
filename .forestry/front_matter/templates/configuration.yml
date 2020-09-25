@@ -1,0 +1,60 @@
+---
+label: Configuration
+hide_body: true
+fields:
+- type: text
+  name: baseURL
+  label: baseURL
+- type: list
+  name: disableKinds
+  label: disableKinds
+- type: text
+  name: defaultContentLanguage
+  label: defaultContentLanguage
+- type: text
+  name: theme
+  label: theme
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: markup
+  label: markup
+  fields:
+  - type: field_group
+    name: goldmark
+    label: goldmark
+    fields:
+    - type: field_group
+      name: renderer
+      label: renderer
+      fields:
+      - type: boolean
+        name: hardWraps
+        label: hardWraps
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: text
+    name: copyright
+    label: copyright
+  - type: text
+    name: description
+    label: description
+  - type: file
+    name: favicon
+    label: favicon
+  - type: image_gallery
+    name: images
+    label: images
+  - type: text
+    name: title
+    label: title
+  - type: field_group
+    name: meta
+    label: meta
+    fields:
+    - type: text
+      name: keywords
+      label: keywords
