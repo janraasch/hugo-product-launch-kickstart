@@ -91,3 +91,16 @@ fields:
     - type: text
       name: keywords
       label: keywords
+  - name: hidedesignbyline
+    type: boolean
+    label: hidedesignbyline
+    description: 'LICENSE: Hugo Product Launch by Jan Raasch is licensed under Attribution
+      4.0 International (CC BY 4.0).# See <a href="https://github.com/janraasch/hugo-product-launch#license."
+      title="https://github.com/janraasch/hugo-product-launch#license." target="_blank">https://github.com/janraasch/hugo-product-launch#license.</a>
+      This theme will, by default, inject a design-by-line at the bottom of the page.
+      <strong>If</strong> you would like to use this theme <strong>without attribution</strong>,
+      permissions beyond this license''s scope <strong>are available</strong> at <a
+      href="https://github.com/janraasch/hugo-product-launch/blob/master/MORE_PERMISSIONS.md."
+      title="https://github.com/janraasch/hugo-product-launch/blob/master/MORE_PERMISSIONS.md"
+      target="_blank">https://github.com/janraasch/hugo-product-launch/blob/master/MORE_PERMISSIONS.md</a>.'
+    default: false
