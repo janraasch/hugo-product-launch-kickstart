@@ -12,7 +12,7 @@ sections:
   path: content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
   exclude: _index.md
 upload_dir: static/uploads
 public_path: "/uploads"
