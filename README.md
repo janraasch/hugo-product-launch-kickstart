@@ -10,6 +10,14 @@ If you would like to have a nice & clean _no!-code_ User Interface 🧁 for Cont
 
 For further details, check out the [usage instructions](https://github.com/janraasch/hugo-product-launch#usage) on the [theme's main repo](https://github.com/janraasch/hugo-product-launch).
 
+### Manual installation
+
+This repository contains submodule, use the --recurse-submodules option when cloning
+
+```
+git clone --recurse-submodules https://github.com/janraasch/hugo-product-launch-kickstart.git
+```
+
 ## Issues / Feedback / Contributing
 
 Please use [GitHub issues][github-issues-url] on the [theme's main repo](https://github.com/janraasch/hugo-product-launch).
